@@ -1,0 +1,1502 @@
+[
+  {
+    "word": "School",
+    "impostorWord": "University",
+    "category": "Places"
+  },
+  {
+    "word": "Tennis",
+    "impostorWord": "Badminton",
+    "category": "Sports"
+  },
+  {
+    "word": "Dog",
+    "impostorWord": "Wolf",
+    "category": "Animals"
+  },
+  {
+    "word": "Toaster",
+    "impostorWord": "Grill",
+    "category": "Household"
+  },
+  {
+    "word": "Frog",
+    "impostorWord": "Toad",
+    "category": "Animals"
+  },
+  {
+    "word": "Subway",
+    "impostorWord": "Tram",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Mirror",
+    "impostorWord": "Window",
+    "category": "Household"
+  },
+  {
+    "word": "Owl",
+    "impostorWord": "Falcon",
+    "category": "Animals"
+  },
+  {
+    "word": "Blender",
+    "impostorWord": "Mixer",
+    "category": "Household"
+  },
+  {
+    "word": "Engineer",
+    "impostorWord": "Mechanic",
+    "category": "Jobs"
+  },
+  {
+    "word": "Hockey",
+    "impostorWord": "Ice Hockey",
+    "category": "Sports"
+  },
+  {
+    "word": "Drone",
+    "impostorWord": "Quadcopter",
+    "category": "Technology"
+  },
+  {
+    "word": "Pizza",
+    "impostorWord": "Burger",
+    "category": "Food"
+  },
+  {
+    "word": "Bus",
+    "impostorWord": "Train",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Airplane",
+    "impostorWord": "Helicopter",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Glacier",
+    "impostorWord": "Iceberg",
+    "category": "Nature"
+  },
+  {
+    "word": "Library",
+    "impostorWord": "Bookstore",
+    "category": "Places"
+  },
+  {
+    "word": "Surfing",
+    "impostorWord": "Skateboarding",
+    "category": "Sports"
+  },
+  {
+    "word": "Forest",
+    "impostorWord": "Jungle",
+    "category": "Places"
+  },
+  {
+    "word": "River",
+    "impostorWord": "Lake",
+    "category": "Nature"
+  },
+  {
+    "word": "Skiing",
+    "impostorWord": "Snowboarding",
+    "category": "Sports"
+  },
+  {
+    "word": "Truck",
+    "impostorWord": "Pickup",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Baseball",
+    "impostorWord": "Cricket",
+    "category": "Sports"
+  },
+  {
+    "word": "Keyboard",
+    "impostorWord": "Typewriter",
+    "category": "Technology"
+  },
+  {
+    "word": "Rocket",
+    "impostorWord": "Spaceship",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Ice Cream",
+    "impostorWord": "Gelato",
+    "category": "Food"
+  },
+  {
+    "word": "Gamepad",
+    "impostorWord": "Joystick",
+    "category": "Technology"
+  },
+  {
+    "word": "Printer",
+    "impostorWord": "Scanner",
+    "category": "Technology"
+  },
+  {
+    "word": "Salad",
+    "impostorWord": "Coleslaw",
+    "category": "Food"
+  },
+  {
+    "word": "Motorcycle",
+    "impostorWord": "Scooter",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Horse",
+    "impostorWord": "Donkey",
+    "category": "Animals"
+  },
+  {
+    "word": "Architect",
+    "impostorWord": "Designer",
+    "category": "Jobs"
+  },
+  {
+    "word": "Flash Drive",
+    "impostorWord": "Hard Drive",
+    "category": "Technology"
+  },
+  {
+    "word": "Castle",
+    "impostorWord": "Palace",
+    "category": "Places"
+  },
+  {
+    "word": "Smartwatch",
+    "impostorWord": "Fitness Tracker",
+    "category": "Technology"
+  },
+  {
+    "word": "Crab",
+    "impostorWord": "Lobster",
+    "category": "Animals"
+  },
+  {
+    "word": "Chef",
+    "impostorWord": "Cook",
+    "category": "Jobs"
+  },
+  {
+    "word": "Carpet",
+    "impostorWord": "Rug",
+    "category": "Household"
+  },
+  {
+    "word": "Jet",
+    "impostorWord": "Fighter Jet",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Camera",
+    "impostorWord": "Camcorder",
+    "category": "Technology"
+  },
+  {
+    "word": "Pancake",
+    "impostorWord": "Waffle",
+    "category": "Food"
+  },
+  {
+    "word": "Snake",
+    "impostorWord": "Lizard",
+    "category": "Animals"
+  },
+  {
+    "word": "Mouse",
+    "impostorWord": "Trackpad",
+    "category": "Technology"
+  },
+  {
+    "word": "Tank",
+    "impostorWord": "Armored Car",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Mountain",
+    "impostorWord": "Hill",
+    "category": "Places"
+  },
+  {
+    "word": "Eagle",
+    "impostorWord": "Hawk",
+    "category": "Animals"
+  },
+  {
+    "word": "Octopus",
+    "impostorWord": "Squid",
+    "category": "Animals"
+  },
+  {
+    "word": "Sink",
+    "impostorWord": "Faucet",
+    "category": "Household"
+  },
+  {
+    "word": "Karate",
+    "impostorWord": "Judo",
+    "category": "Sports"
+  },
+  {
+    "word": "Hot Dog",
+    "impostorWord": "Sausage",
+    "category": "Food"
+  },
+  {
+    "word": "Thunder",
+    "impostorWord": "Lightning",
+    "category": "Nature"
+  },
+  {
+    "word": "Electrician",
+    "impostorWord": "Plumber",
+    "category": "Jobs"
+  },
+  {
+    "word": "Desert",
+    "impostorWord": "Dune",
+    "category": "Nature"
+  },
+  {
+    "word": "Vacuum",
+    "impostorWord": "Broom",
+    "category": "Household"
+  },
+  {
+    "word": "Table Tennis",
+    "impostorWord": "Ping Pong",
+    "category": "Sports"
+  },
+  {
+    "word": "Programmer",
+    "impostorWord": "Developer",
+    "category": "Jobs"
+  },
+  {
+    "word": "Car",
+    "impostorWord": "Taxi",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Volcano",
+    "impostorWord": "Geyser",
+    "category": "Nature"
+  },
+  {
+    "word": "Park",
+    "impostorWord": "Garden",
+    "category": "Places"
+  },
+  {
+    "word": "Lamp",
+    "impostorWord": "Lantern",
+    "category": "Household"
+  },
+  {
+    "word": "Rice",
+    "impostorWord": "Noodles",
+    "category": "Food"
+  },
+  {
+    "word": "Musician",
+    "impostorWord": "Singer",
+    "category": "Jobs"
+  },
+  {
+    "word": "Boxing",
+    "impostorWord": "MMA",
+    "category": "Sports"
+  },
+  {
+    "word": "Boat",
+    "impostorWord": "Ship",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Cow",
+    "impostorWord": "Bison",
+    "category": "Animals"
+  },
+  {
+    "word": "Rock",
+    "impostorWord": "Stone",
+    "category": "Nature"
+  },
+  {
+    "word": "Whale",
+    "impostorWord": "Orca",
+    "category": "Animals"
+  },
+  {
+    "word": "Lion",
+    "impostorWord": "Leopard",
+    "category": "Animals"
+  },
+  {
+    "word": "Bicycle",
+    "impostorWord": "Tricycle",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Cheesecake",
+    "impostorWord": "Pie",
+    "category": "Food"
+  },
+  {
+    "word": "Tree",
+    "impostorWord": "Bush",
+    "category": "Nature"
+  },
+  {
+    "word": "Librarian",
+    "impostorWord": "Archivist",
+    "category": "Jobs"
+  },
+  {
+    "word": "Rabbit",
+    "impostorWord": "Hare",
+    "category": "Animals"
+  },
+  {
+    "word": "Zoo",
+    "impostorWord": "Aquarium",
+    "category": "Places"
+  },
+  {
+    "word": "Stadium",
+    "impostorWord": "Arena",
+    "category": "Places"
+  },
+  {
+    "word": "Golf",
+    "impostorWord": "Mini Golf",
+    "category": "Sports"
+  },
+  {
+    "word": "Island",
+    "impostorWord": "Peninsula",
+    "category": "Nature"
+  },
+  {
+    "word": "Soup",
+    "impostorWord": "Stew",
+    "category": "Food"
+  },
+  {
+    "word": "Penguin",
+    "impostorWord": "Seal",
+    "category": "Animals"
+  },
+  {
+    "word": "Microphone",
+    "impostorWord": "Megaphone",
+    "category": "Technology"
+  },
+  {
+    "word": "Farmer",
+    "impostorWord": "Gardener",
+    "category": "Jobs"
+  },
+  {
+    "word": "Restaurant",
+    "impostorWord": "Cafe",
+    "category": "Places"
+  },
+  {
+    "word": "Soccer",
+    "impostorWord": "Football",
+    "category": "Sports"
+  },
+  {
+    "word": "Milkshake",
+    "impostorWord": "Smoothie",
+    "category": "Food"
+  },
+  {
+    "word": "Speaker",
+    "impostorWord": "Headphones",
+    "category": "Technology"
+  },
+  {
+    "word": "Beach",
+    "impostorWord": "Island",
+    "category": "Places"
+  },
+  {
+    "word": "Spaghetti",
+    "impostorWord": "Ramen",
+    "category": "Food"
+  },
+  {
+    "word": "Router",
+    "impostorWord": "Modem",
+    "category": "Technology"
+  },
+  {
+    "word": "Monitor",
+    "impostorWord": "Television",
+    "category": "Technology"
+  },
+  {
+    "word": "VR Headset",
+    "impostorWord": "AR Glasses",
+    "category": "Technology"
+  },
+  {
+    "word": "Dolphin",
+    "impostorWord": "Shark",
+    "category": "Animals"
+  },
+  {
+    "word": "Door",
+    "impostorWord": "Gate",
+    "category": "Household"
+  },
+  {
+    "word": "Police Officer",
+    "impostorWord": "Detective",
+    "category": "Jobs"
+  },
+  {
+    "word": "Laptop",
+    "impostorWord": "Desktop",
+    "category": "Technology"
+  },
+  {
+    "word": "Elephant",
+    "impostorWord": "Rhino",
+    "category": "Animals"
+  },
+  {
+    "word": "Cycling",
+    "impostorWord": "Mountain Biking",
+    "category": "Sports"
+  },
+  {
+    "word": "Rugby",
+    "impostorWord": "American Football",
+    "category": "Sports"
+  },
+  {
+    "word": "Cookie",
+    "impostorWord": "Biscuit",
+    "category": "Food"
+  },
+  {
+    "word": "Ambulance",
+    "impostorWord": "Fire Truck",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Doctor",
+    "impostorWord": "Nurse",
+    "category": "Jobs"
+  },
+  {
+    "word": "Museum",
+    "impostorWord": "Gallery",
+    "category": "Places"
+  },
+  {
+    "word": "Swimming",
+    "impostorWord": "Diving",
+    "category": "Sports"
+  },
+  {
+    "word": "Bathtub",
+    "impostorWord": "Shower",
+    "category": "Household"
+  },
+  {
+    "word": "Refrigerator",
+    "impostorWord": "Freezer",
+    "category": "Household"
+  },
+  {
+    "word": "Curtains",
+    "impostorWord": "Blinds",
+    "category": "Household"
+  },
+  {
+    "word": "Donut",
+    "impostorWord": "Bagel",
+    "category": "Food"
+  },
+  {
+    "word": "Bridge",
+    "impostorWord": "Tunnel",
+    "category": "Places"
+  },
+  {
+    "word": "Flower",
+    "impostorWord": "Plant",
+    "category": "Nature"
+  },
+  {
+    "word": "Police Car",
+    "impostorWord": "Patrol Car",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Bed",
+    "impostorWord": "Couch",
+    "category": "Household"
+  },
+  {
+    "word": "Bear",
+    "impostorWord": "Panda",
+    "category": "Animals"
+  },
+  {
+    "word": "Sandwich",
+    "impostorWord": "Wrap",
+    "category": "Food"
+  },
+  {
+    "word": "Sun",
+    "impostorWord": "Star",
+    "category": "Nature"
+  },
+  {
+    "word": "Scientist",
+    "impostorWord": "Researcher",
+    "category": "Jobs"
+  },
+  {
+    "word": "Sheep",
+    "impostorWord": "Goat",
+    "category": "Animals"
+  },
+  {
+    "word": "Actor",
+    "impostorWord": "Director",
+    "category": "Jobs"
+  },
+  {
+    "word": "Nachos",
+    "impostorWord": "Quesadilla",
+    "category": "Food"
+  },
+  {
+    "word": "Photographer",
+    "impostorWord": "Videographer",
+    "category": "Jobs"
+  },
+  {
+    "word": "Deer",
+    "impostorWord": "Moose",
+    "category": "Animals"
+  },
+  {
+    "word": "Moon",
+    "impostorWord": "Planet",
+    "category": "Nature"
+  },
+  {
+    "word": "Chair",
+    "impostorWord": "Stool",
+    "category": "Household"
+  },
+  {
+    "word": "Bulldozer",
+    "impostorWord": "Excavator",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Taco",
+    "impostorWord": "Burrito",
+    "category": "Food"
+  },
+  {
+    "word": "Hospital",
+    "impostorWord": "Clinic",
+    "category": "Places"
+  },
+  {
+    "word": "Pilot",
+    "impostorWord": "Astronaut",
+    "category": "Jobs"
+  },
+  {
+    "word": "Teacher",
+    "impostorWord": "Professor",
+    "category": "Jobs"
+  },
+  {
+    "word": "Firefighter",
+    "impostorWord": "Rescue Worker",
+    "category": "Jobs"
+  },
+  {
+    "word": "Fries",
+    "impostorWord": "Onion Rings",
+    "category": "Food"
+  },
+  {
+    "word": "Rain",
+    "impostorWord": "Snow",
+    "category": "Nature"
+  },
+  {
+    "word": "Cat",
+    "impostorWord": "Tiger",
+    "category": "Animals"
+  },
+  {
+    "word": "Phone",
+    "impostorWord": "Tablet",
+    "category": "Technology"
+  },
+  {
+    "word": "Ocean",
+    "impostorWord": "Sea",
+    "category": "Nature"
+  },
+  {
+    "word": "Basketball",
+    "impostorWord": "Volleyball",
+    "category": "Sports"
+  },
+  {
+    "word": "Brownie",
+    "impostorWord": "Cake",
+    "category": "Food"
+  },
+  {
+    "word": "Barber",
+    "impostorWord": "Hairdresser",
+    "category": "Jobs"
+  },
+  {
+    "word": "Table",
+    "impostorWord": "Desk",
+    "category": "Household"
+  },
+  {
+    "word": "University",
+    "impostorWord": "School",
+    "category": "Places"
+  },
+  {
+    "word": "Badminton",
+    "impostorWord": "Tennis",
+    "category": "Sports"
+  },
+  {
+    "word": "Wolf",
+    "impostorWord": "Dog",
+    "category": "Animals"
+  },
+  {
+    "word": "Grill",
+    "impostorWord": "Toaster",
+    "category": "Household"
+  },
+  {
+    "word": "Toad",
+    "impostorWord": "Frog",
+    "category": "Animals"
+  },
+  {
+    "word": "Tram",
+    "impostorWord": "Subway",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Window",
+    "impostorWord": "Mirror",
+    "category": "Household"
+  },
+  {
+    "word": "Falcon",
+    "impostorWord": "Owl",
+    "category": "Animals"
+  },
+  {
+    "word": "Mixer",
+    "impostorWord": "Blender",
+    "category": "Household"
+  },
+  {
+    "word": "Mechanic",
+    "impostorWord": "Engineer",
+    "category": "Jobs"
+  },
+  {
+    "word": "Ice Hockey",
+    "impostorWord": "Hockey",
+    "category": "Sports"
+  },
+  {
+    "word": "Quadcopter",
+    "impostorWord": "Drone",
+    "category": "Technology"
+  },
+  {
+    "word": "Burger",
+    "impostorWord": "Pizza",
+    "category": "Food"
+  },
+  {
+    "word": "Train",
+    "impostorWord": "Bus",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Helicopter",
+    "impostorWord": "Airplane",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Iceberg",
+    "impostorWord": "Glacier",
+    "category": "Nature"
+  },
+  {
+    "word": "Bookstore",
+    "impostorWord": "Library",
+    "category": "Places"
+  },
+  {
+    "word": "Skateboarding",
+    "impostorWord": "Surfing",
+    "category": "Sports"
+  },
+  {
+    "word": "Jungle",
+    "impostorWord": "Forest",
+    "category": "Places"
+  },
+  {
+    "word": "Lake",
+    "impostorWord": "River",
+    "category": "Nature"
+  },
+  {
+    "word": "Snowboarding",
+    "impostorWord": "Skiing",
+    "category": "Sports"
+  },
+  {
+    "word": "Pickup",
+    "impostorWord": "Truck",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Cricket",
+    "impostorWord": "Baseball",
+    "category": "Sports"
+  },
+  {
+    "word": "Typewriter",
+    "impostorWord": "Keyboard",
+    "category": "Technology"
+  },
+  {
+    "word": "Spaceship",
+    "impostorWord": "Rocket",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Gelato",
+    "impostorWord": "Ice Cream",
+    "category": "Food"
+  },
+  {
+    "word": "Joystick",
+    "impostorWord": "Gamepad",
+    "category": "Technology"
+  },
+  {
+    "word": "Scanner",
+    "impostorWord": "Printer",
+    "category": "Technology"
+  },
+  {
+    "word": "Coleslaw",
+    "impostorWord": "Salad",
+    "category": "Food"
+  },
+  {
+    "word": "Scooter",
+    "impostorWord": "Motorcycle",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Donkey",
+    "impostorWord": "Horse",
+    "category": "Animals"
+  },
+  {
+    "word": "Designer",
+    "impostorWord": "Architect",
+    "category": "Jobs"
+  },
+  {
+    "word": "Hard Drive",
+    "impostorWord": "Flash Drive",
+    "category": "Technology"
+  },
+  {
+    "word": "Palace",
+    "impostorWord": "Castle",
+    "category": "Places"
+  },
+  {
+    "word": "Fitness Tracker",
+    "impostorWord": "Smartwatch",
+    "category": "Technology"
+  },
+  {
+    "word": "Lobster",
+    "impostorWord": "Crab",
+    "category": "Animals"
+  },
+  {
+    "word": "Cook",
+    "impostorWord": "Chef",
+    "category": "Jobs"
+  },
+  {
+    "word": "Rug",
+    "impostorWord": "Carpet",
+    "category": "Household"
+  },
+  {
+    "word": "Fighter Jet",
+    "impostorWord": "Jet",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Camcorder",
+    "impostorWord": "Camera",
+    "category": "Technology"
+  },
+  {
+    "word": "Waffle",
+    "impostorWord": "Pancake",
+    "category": "Food"
+  },
+  {
+    "word": "Lizard",
+    "impostorWord": "Snake",
+    "category": "Animals"
+  },
+  {
+    "word": "Trackpad",
+    "impostorWord": "Mouse",
+    "category": "Technology"
+  },
+  {
+    "word": "Armored Car",
+    "impostorWord": "Tank",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Hill",
+    "impostorWord": "Mountain",
+    "category": "Places"
+  },
+  {
+    "word": "Hawk",
+    "impostorWord": "Eagle",
+    "category": "Animals"
+  },
+  {
+    "word": "Squid",
+    "impostorWord": "Octopus",
+    "category": "Animals"
+  },
+  {
+    "word": "Faucet",
+    "impostorWord": "Sink",
+    "category": "Household"
+  },
+  {
+    "word": "Judo",
+    "impostorWord": "Karate",
+    "category": "Sports"
+  },
+  {
+    "word": "Sausage",
+    "impostorWord": "Hot Dog",
+    "category": "Food"
+  },
+  {
+    "word": "Lightning",
+    "impostorWord": "Thunder",
+    "category": "Nature"
+  },
+  {
+    "word": "Plumber",
+    "impostorWord": "Electrician",
+    "category": "Jobs"
+  },
+  {
+    "word": "Dune",
+    "impostorWord": "Desert",
+    "category": "Nature"
+  },
+  {
+    "word": "Broom",
+    "impostorWord": "Vacuum",
+    "category": "Household"
+  },
+  {
+    "word": "Ping Pong",
+    "impostorWord": "Table Tennis",
+    "category": "Sports"
+  },
+  {
+    "word": "Developer",
+    "impostorWord": "Programmer",
+    "category": "Jobs"
+  },
+  {
+    "word": "Taxi",
+    "impostorWord": "Car",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Geyser",
+    "impostorWord": "Volcano",
+    "category": "Nature"
+  },
+  {
+    "word": "Garden",
+    "impostorWord": "Park",
+    "category": "Places"
+  },
+  {
+    "word": "Lantern",
+    "impostorWord": "Lamp",
+    "category": "Household"
+  },
+  {
+    "word": "Noodles",
+    "impostorWord": "Rice",
+    "category": "Food"
+  },
+  {
+    "word": "Singer",
+    "impostorWord": "Musician",
+    "category": "Jobs"
+  },
+  {
+    "word": "MMA",
+    "impostorWord": "Boxing",
+    "category": "Sports"
+  },
+  {
+    "word": "Ship",
+    "impostorWord": "Boat",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Bison",
+    "impostorWord": "Cow",
+    "category": "Animals"
+  },
+  {
+    "word": "Stone",
+    "impostorWord": "Rock",
+    "category": "Nature"
+  },
+  {
+    "word": "Orca",
+    "impostorWord": "Whale",
+    "category": "Animals"
+  },
+  {
+    "word": "Leopard",
+    "impostorWord": "Lion",
+    "category": "Animals"
+  },
+  {
+    "word": "Tricycle",
+    "impostorWord": "Bicycle",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Pie",
+    "impostorWord": "Cheesecake",
+    "category": "Food"
+  },
+  {
+    "word": "Bush",
+    "impostorWord": "Tree",
+    "category": "Nature"
+  },
+  {
+    "word": "Archivist",
+    "impostorWord": "Librarian",
+    "category": "Jobs"
+  },
+  {
+    "word": "Hare",
+    "impostorWord": "Rabbit",
+    "category": "Animals"
+  },
+  {
+    "word": "Aquarium",
+    "impostorWord": "Zoo",
+    "category": "Places"
+  },
+  {
+    "word": "Arena",
+    "impostorWord": "Stadium",
+    "category": "Places"
+  },
+  {
+    "word": "Mini Golf",
+    "impostorWord": "Golf",
+    "category": "Sports"
+  },
+  {
+    "word": "Peninsula",
+    "impostorWord": "Island",
+    "category": "Nature"
+  },
+  {
+    "word": "Stew",
+    "impostorWord": "Soup",
+    "category": "Food"
+  },
+  {
+    "word": "Seal",
+    "impostorWord": "Penguin",
+    "category": "Animals"
+  },
+  {
+    "word": "Megaphone",
+    "impostorWord": "Microphone",
+    "category": "Technology"
+  },
+  {
+    "word": "Gardener",
+    "impostorWord": "Farmer",
+    "category": "Jobs"
+  },
+  {
+    "word": "Cafe",
+    "impostorWord": "Restaurant",
+    "category": "Places"
+  },
+  {
+    "word": "Football",
+    "impostorWord": "Soccer",
+    "category": "Sports"
+  },
+  {
+    "word": "Smoothie",
+    "impostorWord": "Milkshake",
+    "category": "Food"
+  },
+  {
+    "word": "Headphones",
+    "impostorWord": "Speaker",
+    "category": "Technology"
+  },
+  {
+    "word": "Island",
+    "impostorWord": "Beach",
+    "category": "Places"
+  },
+  {
+    "word": "Ramen",
+    "impostorWord": "Spaghetti",
+    "category": "Food"
+  },
+  {
+    "word": "Modem",
+    "impostorWord": "Router",
+    "category": "Technology"
+  },
+  {
+    "word": "Television",
+    "impostorWord": "Monitor",
+    "category": "Technology"
+  },
+  {
+    "word": "AR Glasses",
+    "impostorWord": "VR Headset",
+    "category": "Technology"
+  },
+  {
+    "word": "Shark",
+    "impostorWord": "Dolphin",
+    "category": "Animals"
+  },
+  {
+    "word": "Gate",
+    "impostorWord": "Door",
+    "category": "Household"
+  },
+  {
+    "word": "Detective",
+    "impostorWord": "Police Officer",
+    "category": "Jobs"
+  },
+  {
+    "word": "Desktop",
+    "impostorWord": "Laptop",
+    "category": "Technology"
+  },
+  {
+    "word": "Rhino",
+    "impostorWord": "Elephant",
+    "category": "Animals"
+  },
+  {
+    "word": "Mountain Biking",
+    "impostorWord": "Cycling",
+    "category": "Sports"
+  },
+  {
+    "word": "American Football",
+    "impostorWord": "Rugby",
+    "category": "Sports"
+  },
+  {
+    "word": "Biscuit",
+    "impostorWord": "Cookie",
+    "category": "Food"
+  },
+  {
+    "word": "Fire Truck",
+    "impostorWord": "Ambulance",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Nurse",
+    "impostorWord": "Doctor",
+    "category": "Jobs"
+  },
+  {
+    "word": "Gallery",
+    "impostorWord": "Museum",
+    "category": "Places"
+  },
+  {
+    "word": "Diving",
+    "impostorWord": "Swimming",
+    "category": "Sports"
+  },
+  {
+    "word": "Shower",
+    "impostorWord": "Bathtub",
+    "category": "Household"
+  },
+  {
+    "word": "Freezer",
+    "impostorWord": "Refrigerator",
+    "category": "Household"
+  },
+  {
+    "word": "Blinds",
+    "impostorWord": "Curtains",
+    "category": "Household"
+  },
+  {
+    "word": "Bagel",
+    "impostorWord": "Donut",
+    "category": "Food"
+  },
+  {
+    "word": "Tunnel",
+    "impostorWord": "Bridge",
+    "category": "Places"
+  },
+  {
+    "word": "Plant",
+    "impostorWord": "Flower",
+    "category": "Nature"
+  },
+  {
+    "word": "Patrol Car",
+    "impostorWord": "Police Car",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Couch",
+    "impostorWord": "Bed",
+    "category": "Household"
+  },
+  {
+    "word": "Panda",
+    "impostorWord": "Bear",
+    "category": "Animals"
+  },
+  {
+    "word": "Wrap",
+    "impostorWord": "Sandwich",
+    "category": "Food"
+  },
+  {
+    "word": "Star",
+    "impostorWord": "Sun",
+    "category": "Nature"
+  },
+  {
+    "word": "Researcher",
+    "impostorWord": "Scientist",
+    "category": "Jobs"
+  },
+  {
+    "word": "Goat",
+    "impostorWord": "Sheep",
+    "category": "Animals"
+  },
+  {
+    "word": "Director",
+    "impostorWord": "Actor",
+    "category": "Jobs"
+  },
+  {
+    "word": "Quesadilla",
+    "impostorWord": "Nachos",
+    "category": "Food"
+  },
+  {
+    "word": "Videographer",
+    "impostorWord": "Photographer",
+    "category": "Jobs"
+  },
+  {
+    "word": "Moose",
+    "impostorWord": "Deer",
+    "category": "Animals"
+  },
+  {
+    "word": "Planet",
+    "impostorWord": "Moon",
+    "category": "Nature"
+  },
+  {
+    "word": "Stool",
+    "impostorWord": "Chair",
+    "category": "Household"
+  },
+  {
+    "word": "Excavator",
+    "impostorWord": "Bulldozer",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Burrito",
+    "impostorWord": "Taco",
+    "category": "Food"
+  },
+  {
+    "word": "Clinic",
+    "impostorWord": "Hospital",
+    "category": "Places"
+  },
+  {
+    "word": "Astronaut",
+    "impostorWord": "Pilot",
+    "category": "Jobs"
+  },
+  {
+    "word": "Professor",
+    "impostorWord": "Teacher",
+    "category": "Jobs"
+  },
+  {
+    "word": "Rescue Worker",
+    "impostorWord": "Firefighter",
+    "category": "Jobs"
+  },
+  {
+    "word": "Onion Rings",
+    "impostorWord": "Fries",
+    "category": "Food"
+  },
+  {
+    "word": "Snow",
+    "impostorWord": "Rain",
+    "category": "Nature"
+  },
+  {
+    "word": "Tiger",
+    "impostorWord": "Cat",
+    "category": "Animals"
+  },
+  {
+    "word": "Tablet",
+    "impostorWord": "Phone",
+    "category": "Technology"
+  },
+  {
+    "word": "Sea",
+    "impostorWord": "Ocean",
+    "category": "Nature"
+  },
+  {
+    "word": "Volleyball",
+    "impostorWord": "Basketball",
+    "category": "Sports"
+  },
+  {
+    "word": "Cake",
+    "impostorWord": "Brownie",
+    "category": "Food"
+  },
+  {
+    "word": "Hairdresser",
+    "impostorWord": "Barber",
+    "category": "Jobs"
+  },
+  {
+    "word": "Desk",
+    "impostorWord": "Table",
+    "category": "Household"
+  },
+  {
+    "word": "School",
+    "impostorWord": "University",
+    "category": "Places"
+  },
+  {
+    "word": "Tennis",
+    "impostorWord": "Badminton",
+    "category": "Sports"
+  },
+  {
+    "word": "Dog",
+    "impostorWord": "Wolf",
+    "category": "Animals"
+  },
+  {
+    "word": "Toaster",
+    "impostorWord": "Grill",
+    "category": "Household"
+  },
+  {
+    "word": "Frog",
+    "impostorWord": "Toad",
+    "category": "Animals"
+  },
+  {
+    "word": "Subway",
+    "impostorWord": "Tram",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Mirror",
+    "impostorWord": "Window",
+    "category": "Household"
+  },
+  {
+    "word": "Owl",
+    "impostorWord": "Falcon",
+    "category": "Animals"
+  },
+  {
+    "word": "Blender",
+    "impostorWord": "Mixer",
+    "category": "Household"
+  },
+  {
+    "word": "Engineer",
+    "impostorWord": "Mechanic",
+    "category": "Jobs"
+  },
+  {
+    "word": "Hockey",
+    "impostorWord": "Ice Hockey",
+    "category": "Sports"
+  },
+  {
+    "word": "Drone",
+    "impostorWord": "Quadcopter",
+    "category": "Technology"
+  },
+  {
+    "word": "Pizza",
+    "impostorWord": "Burger",
+    "category": "Food"
+  },
+  {
+    "word": "Bus",
+    "impostorWord": "Train",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Airplane",
+    "impostorWord": "Helicopter",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Glacier",
+    "impostorWord": "Iceberg",
+    "category": "Nature"
+  },
+  {
+    "word": "Library",
+    "impostorWord": "Bookstore",
+    "category": "Places"
+  },
+  {
+    "word": "Surfing",
+    "impostorWord": "Skateboarding",
+    "category": "Sports"
+  },
+  {
+    "word": "Forest",
+    "impostorWord": "Jungle",
+    "category": "Places"
+  },
+  {
+    "word": "River",
+    "impostorWord": "Lake",
+    "category": "Nature"
+  },
+  {
+    "word": "Skiing",
+    "impostorWord": "Snowboarding",
+    "category": "Sports"
+  },
+  {
+    "word": "Truck",
+    "impostorWord": "Pickup",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Baseball",
+    "impostorWord": "Cricket",
+    "category": "Sports"
+  },
+  {
+    "word": "Keyboard",
+    "impostorWord": "Typewriter",
+    "category": "Technology"
+  },
+  {
+    "word": "Rocket",
+    "impostorWord": "Spaceship",
+    "category": "Vehicles"
+  },
+  {
+    "word": "Ice Cream",
+    "impostorWord": "Gelato",
+    "category": "Food"
+  },
+  {
+    "word": "Gamepad",
+    "impostorWord": "Joystick",
+    "category": "Technology"
+  },
+  {
+    "word": "Printer",
+    "impostorWord": "Scanner",
+    "category": "Technology"
+  }
+]

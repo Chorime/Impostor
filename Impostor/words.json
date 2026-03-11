@@ -1,0 +1,1502 @@
+[
+  {
+    "word": "Jet",
+    "impostorWord": "Avión de combate",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Flor",
+    "impostorWord": "Planta",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Artista",
+    "impostorWord": "Pintor",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Tanque",
+    "impostorWord": "Vehículo blindado",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Bulldozer",
+    "impostorWord": "Excavadora",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Músico",
+    "impostorWord": "Cantante",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Fútbol",
+    "impostorWord": "Fútbol americano",
+    "category": "Deportes"
+  },
+  {
+    "word": "Granjero",
+    "impostorWord": "Jardinero",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Impresora",
+    "impostorWord": "Escáner",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Cama",
+    "impostorWord": "Sofá",
+    "category": "Hogar"
+  },
+  {
+    "word": "Pastel de queso",
+    "impostorWord": "Tarta",
+    "category": "Comida"
+  },
+  {
+    "word": "Autobús",
+    "impostorWord": "Tren",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Volcán",
+    "impostorWord": "Géiser",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Árbol",
+    "impostorWord": "Arbusto",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Actor",
+    "impostorWord": "Director",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Cohete",
+    "impostorWord": "Nave espacial",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Profesor",
+    "impostorWord": "Maestro",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Metro",
+    "impostorWord": "Tranvía",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Restaurante",
+    "impostorWord": "Cafetería",
+    "category": "Lugares"
+  },
+  {
+    "word": "Monitor",
+    "impostorWord": "Televisión",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Dumpling",
+    "impostorWord": "Rollito primavera",
+    "category": "Comida"
+  },
+  {
+    "word": "Altavoz",
+    "impostorWord": "Auriculares",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Motocicleta",
+    "impostorWord": "Scooter",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Cangrejo",
+    "impostorWord": "Langosta",
+    "category": "Animales"
+  },
+  {
+    "word": "Bibliotecario",
+    "impostorWord": "Archivista",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Doctor",
+    "impostorWord": "Enfermero",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Ratón",
+    "impostorWord": "Trackpad",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Puerta",
+    "impostorWord": "Portón",
+    "category": "Hogar"
+  },
+  {
+    "word": "Río",
+    "impostorWord": "Lago",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Teléfono",
+    "impostorWord": "Tablet",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Océano",
+    "impostorWord": "Mar",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Chef",
+    "impostorWord": "Cocinero",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Ballena",
+    "impostorWord": "Orca",
+    "category": "Animales"
+  },
+  {
+    "word": "Dron",
+    "impostorWord": "Quadcóptero",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Pulpo",
+    "impostorWord": "Calamar",
+    "category": "Animales"
+  },
+  {
+    "word": "Ciervo",
+    "impostorWord": "Alce",
+    "category": "Animales"
+  },
+  {
+    "word": "Esquí",
+    "impostorWord": "Snowboard",
+    "category": "Deportes"
+  },
+  {
+    "word": "Micrófono",
+    "impostorWord": "Megáfono",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Portátil",
+    "impostorWord": "Computadora",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Perro",
+    "impostorWord": "Lobo",
+    "category": "Animales"
+  },
+  {
+    "word": "Gato",
+    "impostorWord": "Tigre",
+    "category": "Animales"
+  },
+  {
+    "word": "Mesero",
+    "impostorWord": "Barman",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Surf",
+    "impostorWord": "Skate",
+    "category": "Deportes"
+  },
+  {
+    "word": "Zorro",
+    "impostorWord": "Coyote",
+    "category": "Animales"
+  },
+  {
+    "word": "Brownie",
+    "impostorWord": "Pastel",
+    "category": "Comida"
+  },
+  {
+    "word": "Nachos",
+    "impostorWord": "Quesadilla",
+    "category": "Comida"
+  },
+  {
+    "word": "Isla",
+    "impostorWord": "Península",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Camión",
+    "impostorWord": "Pickup",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Mesa",
+    "impostorWord": "Escritorio",
+    "category": "Hogar"
+  },
+  {
+    "word": "Silla",
+    "impostorWord": "Taburete",
+    "category": "Hogar"
+  },
+  {
+    "word": "Tenis de mesa",
+    "impostorWord": "Ping pong",
+    "category": "Deportes"
+  },
+  {
+    "word": "Desierto",
+    "impostorWord": "Duna",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Biblioteca",
+    "impostorWord": "Librería",
+    "category": "Lugares"
+  },
+  {
+    "word": "Puente",
+    "impostorWord": "Túnel",
+    "category": "Lugares"
+  },
+  {
+    "word": "Trueno",
+    "impostorWord": "Relámpago",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Policía",
+    "impostorWord": "Detective",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Científico",
+    "impostorWord": "Investigador",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Teclado",
+    "impostorWord": "Máquina de escribir",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Serpiente",
+    "impostorWord": "Lagarto",
+    "category": "Animales"
+  },
+  {
+    "word": "Oveja",
+    "impostorWord": "Cabra",
+    "category": "Animales"
+  },
+  {
+    "word": "Programador",
+    "impostorWord": "Desarrollador",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Galleta",
+    "impostorWord": "Bizcocho",
+    "category": "Comida"
+  },
+  {
+    "word": "Ciclismo",
+    "impostorWord": "Ciclismo de montaña",
+    "category": "Deportes"
+  },
+  {
+    "word": "Panqueque",
+    "impostorWord": "Waffle",
+    "category": "Comida"
+  },
+  {
+    "word": "Tostadora",
+    "impostorWord": "Parrilla",
+    "category": "Hogar"
+  },
+  {
+    "word": "Museo",
+    "impostorWord": "Galería",
+    "category": "Lugares"
+  },
+  {
+    "word": "Glaciar",
+    "impostorWord": "Iceberg",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Reloj inteligente",
+    "impostorWord": "Pulsera fitness",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Fregadero",
+    "impostorWord": "Grifo",
+    "category": "Hogar"
+  },
+  {
+    "word": "Luna",
+    "impostorWord": "Planeta",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Ingeniero",
+    "impostorWord": "Mecánico",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Vaca",
+    "impostorWord": "Bisonte",
+    "category": "Animales"
+  },
+  {
+    "word": "Hospital",
+    "impostorWord": "Clínica",
+    "category": "Lugares"
+  },
+  {
+    "word": "Dona",
+    "impostorWord": "Bagel",
+    "category": "Comida"
+  },
+  {
+    "word": "Patrulla",
+    "impostorWord": "Coche policía",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Barbero",
+    "impostorWord": "Peluquero",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Memoria USB",
+    "impostorWord": "Disco duro",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Ensalada",
+    "impostorWord": "Ensalada de col",
+    "category": "Comida"
+  },
+  {
+    "word": "Conejo",
+    "impostorWord": "Liebre",
+    "category": "Animales"
+  },
+  {
+    "word": "Avión",
+    "impostorWord": "Helicóptero",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Golf",
+    "impostorWord": "Mini golf",
+    "category": "Deportes"
+  },
+  {
+    "word": "Bicicleta",
+    "impostorWord": "Triciclo",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Arroz",
+    "impostorWord": "Fideos",
+    "category": "Comida"
+  },
+  {
+    "word": "Coche",
+    "impostorWord": "Taxi",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Ambulancia",
+    "impostorWord": "Camión de bomberos",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Tenis",
+    "impostorWord": "Bádminton",
+    "category": "Deportes"
+  },
+  {
+    "word": "Reloj",
+    "impostorWord": "Reloj de pulsera",
+    "category": "Hogar"
+  },
+  {
+    "word": "Pingüino",
+    "impostorWord": "Foca",
+    "category": "Animales"
+  },
+  {
+    "word": "Karate",
+    "impostorWord": "Judo",
+    "category": "Deportes"
+  },
+  {
+    "word": "Helado",
+    "impostorWord": "Gelato",
+    "category": "Comida"
+  },
+  {
+    "word": "Caballo",
+    "impostorWord": "Burro",
+    "category": "Animales"
+  },
+  {
+    "word": "Cámara",
+    "impostorWord": "Videocámara",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Barco",
+    "impostorWord": "Buque",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Control",
+    "impostorWord": "Joystick",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Espejo",
+    "impostorWord": "Ventana",
+    "category": "Hogar"
+  },
+  {
+    "word": "Playa",
+    "impostorWord": "Isla",
+    "category": "Lugares"
+  },
+  {
+    "word": "Zoo",
+    "impostorWord": "Acuario",
+    "category": "Lugares"
+  },
+  {
+    "word": "Hockey",
+    "impostorWord": "Hockey sobre hielo",
+    "category": "Deportes"
+  },
+  {
+    "word": "Curry",
+    "impostorWord": "Chili",
+    "category": "Comida"
+  },
+  {
+    "word": "Casco VR",
+    "impostorWord": "Gafas AR",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Montaña",
+    "impostorWord": "Colina",
+    "category": "Lugares"
+  },
+  {
+    "word": "Lámpara",
+    "impostorWord": "Linterna",
+    "category": "Hogar"
+  },
+  {
+    "word": "Estadio",
+    "impostorWord": "Arena",
+    "category": "Lugares"
+  },
+  {
+    "word": "Papas fritas",
+    "impostorWord": "Aros de cebolla",
+    "category": "Comida"
+  },
+  {
+    "word": "Roca",
+    "impostorWord": "Piedra",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Sándwich",
+    "impostorWord": "Wrap",
+    "category": "Comida"
+  },
+  {
+    "word": "Sol",
+    "impostorWord": "Estrella",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Béisbol",
+    "impostorWord": "Cricket",
+    "category": "Deportes"
+  },
+  {
+    "word": "Piloto",
+    "impostorWord": "Astronauta",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Horno",
+    "impostorWord": "Microondas",
+    "category": "Hogar"
+  },
+  {
+    "word": "Castillo",
+    "impostorWord": "Palacio",
+    "category": "Lugares"
+  },
+  {
+    "word": "Taco",
+    "impostorWord": "Burrito",
+    "category": "Comida"
+  },
+  {
+    "word": "Rana",
+    "impostorWord": "Sapo",
+    "category": "Animales"
+  },
+  {
+    "word": "Templo",
+    "impostorWord": "Iglesia",
+    "category": "Lugares"
+  },
+  {
+    "word": "Refrigerador",
+    "impostorWord": "Congelador",
+    "category": "Hogar"
+  },
+  {
+    "word": "Rugby",
+    "impostorWord": "Fútbol americano",
+    "category": "Deportes"
+  },
+  {
+    "word": "Parque",
+    "impostorWord": "Jardín",
+    "category": "Lugares"
+  },
+  {
+    "word": "Aspiradora",
+    "impostorWord": "Escoba",
+    "category": "Hogar"
+  },
+  {
+    "word": "Baloncesto",
+    "impostorWord": "Voleibol",
+    "category": "Deportes"
+  },
+  {
+    "word": "Malteada",
+    "impostorWord": "Batido",
+    "category": "Comida"
+  },
+  {
+    "word": "Delfín",
+    "impostorWord": "Tiburón",
+    "category": "Animales"
+  },
+  {
+    "word": "Perro caliente",
+    "impostorWord": "Salchicha",
+    "category": "Comida"
+  },
+  {
+    "word": "Espagueti",
+    "impostorWord": "Ramen",
+    "category": "Comida"
+  },
+  {
+    "word": "Kayak",
+    "impostorWord": "Canoa",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Valle",
+    "impostorWord": "Cañón",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Oso",
+    "impostorWord": "Panda",
+    "category": "Animales"
+  },
+  {
+    "word": "Natación",
+    "impostorWord": "Clavados",
+    "category": "Deportes"
+  },
+  {
+    "word": "Pizza",
+    "impostorWord": "Hamburguesa",
+    "category": "Comida"
+  },
+  {
+    "word": "Búho",
+    "impostorWord": "Halcón peregrino",
+    "category": "Animales"
+  },
+  {
+    "word": "Escuela",
+    "impostorWord": "Universidad",
+    "category": "Lugares"
+  },
+  {
+    "word": "Arquitecto",
+    "impostorWord": "Diseñador",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Águila",
+    "impostorWord": "Halcón",
+    "category": "Animales"
+  },
+  {
+    "word": "Bombero",
+    "impostorWord": "Rescatista",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Bañera",
+    "impostorWord": "Ducha",
+    "category": "Hogar"
+  },
+  {
+    "word": "Ketchup",
+    "impostorWord": "Mostaza",
+    "category": "Comida"
+  },
+  {
+    "word": "Avión de combate",
+    "impostorWord": "Jet",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Planta",
+    "impostorWord": "Flor",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Pintor",
+    "impostorWord": "Artista",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Vehículo blindado",
+    "impostorWord": "Tanque",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Excavadora",
+    "impostorWord": "Bulldozer",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Cantante",
+    "impostorWord": "Músico",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Fútbol americano",
+    "impostorWord": "Fútbol",
+    "category": "Deportes"
+  },
+  {
+    "word": "Jardinero",
+    "impostorWord": "Granjero",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Escáner",
+    "impostorWord": "Impresora",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Sofá",
+    "impostorWord": "Cama",
+    "category": "Hogar"
+  },
+  {
+    "word": "Tarta",
+    "impostorWord": "Pastel de queso",
+    "category": "Comida"
+  },
+  {
+    "word": "Tren",
+    "impostorWord": "Autobús",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Géiser",
+    "impostorWord": "Volcán",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Arbusto",
+    "impostorWord": "Árbol",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Director",
+    "impostorWord": "Actor",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Nave espacial",
+    "impostorWord": "Cohete",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Maestro",
+    "impostorWord": "Profesor",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Tranvía",
+    "impostorWord": "Metro",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Cafetería",
+    "impostorWord": "Restaurante",
+    "category": "Lugares"
+  },
+  {
+    "word": "Televisión",
+    "impostorWord": "Monitor",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Rollito primavera",
+    "impostorWord": "Dumpling",
+    "category": "Comida"
+  },
+  {
+    "word": "Auriculares",
+    "impostorWord": "Altavoz",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Scooter",
+    "impostorWord": "Motocicleta",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Langosta",
+    "impostorWord": "Cangrejo",
+    "category": "Animales"
+  },
+  {
+    "word": "Archivista",
+    "impostorWord": "Bibliotecario",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Enfermero",
+    "impostorWord": "Doctor",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Trackpad",
+    "impostorWord": "Ratón",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Portón",
+    "impostorWord": "Puerta",
+    "category": "Hogar"
+  },
+  {
+    "word": "Lago",
+    "impostorWord": "Río",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Tablet",
+    "impostorWord": "Teléfono",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Mar",
+    "impostorWord": "Océano",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Cocinero",
+    "impostorWord": "Chef",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Orca",
+    "impostorWord": "Ballena",
+    "category": "Animales"
+  },
+  {
+    "word": "Quadcóptero",
+    "impostorWord": "Dron",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Calamar",
+    "impostorWord": "Pulpo",
+    "category": "Animales"
+  },
+  {
+    "word": "Alce",
+    "impostorWord": "Ciervo",
+    "category": "Animales"
+  },
+  {
+    "word": "Snowboard",
+    "impostorWord": "Esquí",
+    "category": "Deportes"
+  },
+  {
+    "word": "Megáfono",
+    "impostorWord": "Micrófono",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Computadora",
+    "impostorWord": "Portátil",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Lobo",
+    "impostorWord": "Perro",
+    "category": "Animales"
+  },
+  {
+    "word": "Tigre",
+    "impostorWord": "Gato",
+    "category": "Animales"
+  },
+  {
+    "word": "Barman",
+    "impostorWord": "Mesero",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Skate",
+    "impostorWord": "Surf",
+    "category": "Deportes"
+  },
+  {
+    "word": "Coyote",
+    "impostorWord": "Zorro",
+    "category": "Animales"
+  },
+  {
+    "word": "Pastel",
+    "impostorWord": "Brownie",
+    "category": "Comida"
+  },
+  {
+    "word": "Quesadilla",
+    "impostorWord": "Nachos",
+    "category": "Comida"
+  },
+  {
+    "word": "Península",
+    "impostorWord": "Isla",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Pickup",
+    "impostorWord": "Camión",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Escritorio",
+    "impostorWord": "Mesa",
+    "category": "Hogar"
+  },
+  {
+    "word": "Taburete",
+    "impostorWord": "Silla",
+    "category": "Hogar"
+  },
+  {
+    "word": "Ping pong",
+    "impostorWord": "Tenis de mesa",
+    "category": "Deportes"
+  },
+  {
+    "word": "Duna",
+    "impostorWord": "Desierto",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Librería",
+    "impostorWord": "Biblioteca",
+    "category": "Lugares"
+  },
+  {
+    "word": "Túnel",
+    "impostorWord": "Puente",
+    "category": "Lugares"
+  },
+  {
+    "word": "Relámpago",
+    "impostorWord": "Trueno",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Detective",
+    "impostorWord": "Policía",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Investigador",
+    "impostorWord": "Científico",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Máquina de escribir",
+    "impostorWord": "Teclado",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Lagarto",
+    "impostorWord": "Serpiente",
+    "category": "Animales"
+  },
+  {
+    "word": "Cabra",
+    "impostorWord": "Oveja",
+    "category": "Animales"
+  },
+  {
+    "word": "Desarrollador",
+    "impostorWord": "Programador",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Bizcocho",
+    "impostorWord": "Galleta",
+    "category": "Comida"
+  },
+  {
+    "word": "Ciclismo de montaña",
+    "impostorWord": "Ciclismo",
+    "category": "Deportes"
+  },
+  {
+    "word": "Waffle",
+    "impostorWord": "Panqueque",
+    "category": "Comida"
+  },
+  {
+    "word": "Parrilla",
+    "impostorWord": "Tostadora",
+    "category": "Hogar"
+  },
+  {
+    "word": "Galería",
+    "impostorWord": "Museo",
+    "category": "Lugares"
+  },
+  {
+    "word": "Iceberg",
+    "impostorWord": "Glaciar",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Pulsera fitness",
+    "impostorWord": "Reloj inteligente",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Grifo",
+    "impostorWord": "Fregadero",
+    "category": "Hogar"
+  },
+  {
+    "word": "Planeta",
+    "impostorWord": "Luna",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Mecánico",
+    "impostorWord": "Ingeniero",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Bisonte",
+    "impostorWord": "Vaca",
+    "category": "Animales"
+  },
+  {
+    "word": "Clínica",
+    "impostorWord": "Hospital",
+    "category": "Lugares"
+  },
+  {
+    "word": "Bagel",
+    "impostorWord": "Dona",
+    "category": "Comida"
+  },
+  {
+    "word": "Coche policía",
+    "impostorWord": "Patrulla",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Peluquero",
+    "impostorWord": "Barbero",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Disco duro",
+    "impostorWord": "Memoria USB",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Ensalada de col",
+    "impostorWord": "Ensalada",
+    "category": "Comida"
+  },
+  {
+    "word": "Liebre",
+    "impostorWord": "Conejo",
+    "category": "Animales"
+  },
+  {
+    "word": "Helicóptero",
+    "impostorWord": "Avión",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Mini golf",
+    "impostorWord": "Golf",
+    "category": "Deportes"
+  },
+  {
+    "word": "Triciclo",
+    "impostorWord": "Bicicleta",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Fideos",
+    "impostorWord": "Arroz",
+    "category": "Comida"
+  },
+  {
+    "word": "Taxi",
+    "impostorWord": "Coche",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Camión de bomberos",
+    "impostorWord": "Ambulancia",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Bádminton",
+    "impostorWord": "Tenis",
+    "category": "Deportes"
+  },
+  {
+    "word": "Reloj de pulsera",
+    "impostorWord": "Reloj",
+    "category": "Hogar"
+  },
+  {
+    "word": "Foca",
+    "impostorWord": "Pingüino",
+    "category": "Animales"
+  },
+  {
+    "word": "Judo",
+    "impostorWord": "Karate",
+    "category": "Deportes"
+  },
+  {
+    "word": "Gelato",
+    "impostorWord": "Helado",
+    "category": "Comida"
+  },
+  {
+    "word": "Burro",
+    "impostorWord": "Caballo",
+    "category": "Animales"
+  },
+  {
+    "word": "Videocámara",
+    "impostorWord": "Cámara",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Buque",
+    "impostorWord": "Barco",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Joystick",
+    "impostorWord": "Control",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Ventana",
+    "impostorWord": "Espejo",
+    "category": "Hogar"
+  },
+  {
+    "word": "Isla",
+    "impostorWord": "Playa",
+    "category": "Lugares"
+  },
+  {
+    "word": "Acuario",
+    "impostorWord": "Zoo",
+    "category": "Lugares"
+  },
+  {
+    "word": "Hockey sobre hielo",
+    "impostorWord": "Hockey",
+    "category": "Deportes"
+  },
+  {
+    "word": "Chili",
+    "impostorWord": "Curry",
+    "category": "Comida"
+  },
+  {
+    "word": "Gafas AR",
+    "impostorWord": "Casco VR",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Colina",
+    "impostorWord": "Montaña",
+    "category": "Lugares"
+  },
+  {
+    "word": "Linterna",
+    "impostorWord": "Lámpara",
+    "category": "Hogar"
+  },
+  {
+    "word": "Arena",
+    "impostorWord": "Estadio",
+    "category": "Lugares"
+  },
+  {
+    "word": "Aros de cebolla",
+    "impostorWord": "Papas fritas",
+    "category": "Comida"
+  },
+  {
+    "word": "Piedra",
+    "impostorWord": "Roca",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Wrap",
+    "impostorWord": "Sándwich",
+    "category": "Comida"
+  },
+  {
+    "word": "Estrella",
+    "impostorWord": "Sol",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Cricket",
+    "impostorWord": "Béisbol",
+    "category": "Deportes"
+  },
+  {
+    "word": "Astronauta",
+    "impostorWord": "Piloto",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Microondas",
+    "impostorWord": "Horno",
+    "category": "Hogar"
+  },
+  {
+    "word": "Palacio",
+    "impostorWord": "Castillo",
+    "category": "Lugares"
+  },
+  {
+    "word": "Burrito",
+    "impostorWord": "Taco",
+    "category": "Comida"
+  },
+  {
+    "word": "Sapo",
+    "impostorWord": "Rana",
+    "category": "Animales"
+  },
+  {
+    "word": "Iglesia",
+    "impostorWord": "Templo",
+    "category": "Lugares"
+  },
+  {
+    "word": "Congelador",
+    "impostorWord": "Refrigerador",
+    "category": "Hogar"
+  },
+  {
+    "word": "Fútbol americano",
+    "impostorWord": "Rugby",
+    "category": "Deportes"
+  },
+  {
+    "word": "Jardín",
+    "impostorWord": "Parque",
+    "category": "Lugares"
+  },
+  {
+    "word": "Escoba",
+    "impostorWord": "Aspiradora",
+    "category": "Hogar"
+  },
+  {
+    "word": "Voleibol",
+    "impostorWord": "Baloncesto",
+    "category": "Deportes"
+  },
+  {
+    "word": "Batido",
+    "impostorWord": "Malteada",
+    "category": "Comida"
+  },
+  {
+    "word": "Tiburón",
+    "impostorWord": "Delfín",
+    "category": "Animales"
+  },
+  {
+    "word": "Salchicha",
+    "impostorWord": "Perro caliente",
+    "category": "Comida"
+  },
+  {
+    "word": "Ramen",
+    "impostorWord": "Espagueti",
+    "category": "Comida"
+  },
+  {
+    "word": "Canoa",
+    "impostorWord": "Kayak",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Cañón",
+    "impostorWord": "Valle",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Panda",
+    "impostorWord": "Oso",
+    "category": "Animales"
+  },
+  {
+    "word": "Clavados",
+    "impostorWord": "Natación",
+    "category": "Deportes"
+  },
+  {
+    "word": "Hamburguesa",
+    "impostorWord": "Pizza",
+    "category": "Comida"
+  },
+  {
+    "word": "Halcón peregrino",
+    "impostorWord": "Búho",
+    "category": "Animales"
+  },
+  {
+    "word": "Universidad",
+    "impostorWord": "Escuela",
+    "category": "Lugares"
+  },
+  {
+    "word": "Diseñador",
+    "impostorWord": "Arquitecto",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Halcón",
+    "impostorWord": "Águila",
+    "category": "Animales"
+  },
+  {
+    "word": "Rescatista",
+    "impostorWord": "Bombero",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Ducha",
+    "impostorWord": "Bañera",
+    "category": "Hogar"
+  },
+  {
+    "word": "Mostaza",
+    "impostorWord": "Ketchup",
+    "category": "Comida"
+  },
+  {
+    "word": "Jet",
+    "impostorWord": "Avión de combate",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Flor",
+    "impostorWord": "Planta",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Artista",
+    "impostorWord": "Pintor",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Tanque",
+    "impostorWord": "Vehículo blindado",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Bulldozer",
+    "impostorWord": "Excavadora",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Músico",
+    "impostorWord": "Cantante",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Fútbol",
+    "impostorWord": "Fútbol americano",
+    "category": "Deportes"
+  },
+  {
+    "word": "Granjero",
+    "impostorWord": "Jardinero",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Impresora",
+    "impostorWord": "Escáner",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Cama",
+    "impostorWord": "Sofá",
+    "category": "Hogar"
+  },
+  {
+    "word": "Pastel de queso",
+    "impostorWord": "Tarta",
+    "category": "Comida"
+  },
+  {
+    "word": "Autobús",
+    "impostorWord": "Tren",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Volcán",
+    "impostorWord": "Géiser",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Árbol",
+    "impostorWord": "Arbusto",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Actor",
+    "impostorWord": "Director",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Cohete",
+    "impostorWord": "Nave espacial",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Profesor",
+    "impostorWord": "Maestro",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Metro",
+    "impostorWord": "Tranvía",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Restaurante",
+    "impostorWord": "Cafetería",
+    "category": "Lugares"
+  },
+  {
+    "word": "Monitor",
+    "impostorWord": "Televisión",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Dumpling",
+    "impostorWord": "Rollito primavera",
+    "category": "Comida"
+  },
+  {
+    "word": "Altavoz",
+    "impostorWord": "Auriculares",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Motocicleta",
+    "impostorWord": "Scooter",
+    "category": "Vehículos"
+  },
+  {
+    "word": "Cangrejo",
+    "impostorWord": "Langosta",
+    "category": "Animales"
+  },
+  {
+    "word": "Bibliotecario",
+    "impostorWord": "Archivista",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Doctor",
+    "impostorWord": "Enfermero",
+    "category": "Profesiones"
+  },
+  {
+    "word": "Ratón",
+    "impostorWord": "Trackpad",
+    "category": "Tecnología"
+  },
+  {
+    "word": "Puerta",
+    "impostorWord": "Portón",
+    "category": "Hogar"
+  },
+  {
+    "word": "Río",
+    "impostorWord": "Lago",
+    "category": "Naturaleza"
+  },
+  {
+    "word": "Teléfono",
+    "impostorWord": "Tablet",
+    "category": "Tecnología"
+  }
+]

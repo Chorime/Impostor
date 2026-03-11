@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Impostor</title>
+<script src="/socket.io/socket.io.js"></script>
+
+<style>
+body{
+    font-family: Arial;
+    background:#121212;
+    color:white;
+    text-align:center;
+
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
+    height:100vh;
+    margin:0;
+}
+
+button{
+    font-size:20px;
+    padding:15px 25px;
+    margin:10px;
+    border-radius:10px;
+    border:none;
+    touch-action: manipulation;
+}
+
+
+input{
+    padding:10px;
+    font-size:18px;
+    margin:5px;
+}
+h1{
+    font-size:32px;
+}
+input{
+    font-size:20px;
+    padding:10px;
+    margin:10px;
+    border-radius:8px;
+    border:none;
+}
+
+#roleText{
+    font-size:36px;
+    margin-top:20px;
+}
+
+#lobby, #roleScreen{
+    display:none;
+}
+
+#startButton{
+    margin: auto
+}
+
+.player{
+    background:#222;
+    margin:5px;
+    padding:10px;
+    border-radius:5px;
+}
+.container{
+    width:90%;
+    max-width:500px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+<div id="menu">
+<h1>Impostor</h1>
+
+<input id="nameInput" placeholder="Tu Nombre">
+
+<br>
+
+<input id="roomInput" placeholder="Codigo de Sala">
+
+<br>
+
+<button onclick="createRoom()">Crear Partida</button>
+<button onclick="joinRoom()">Unirse</button>
+
+</div>
+
+
+<div id="lobby">
+
+<h2>Codigo de Sala: <span id="roomCode"></span></h2>
+
+<h3>Jugadores</h3>
+
+<div id="playerList"></div>
+
+<br>
+
+<button id="startButton" onclick="startGame()">Empezar Partida</button>
+
+</div>
+
+
+<div id="roleScreen">
+
+
+
+<p id="roleText"></p>
+
+<button id="restartButton" onclick="restartGame()">Volver a Jugar</button>
+
+</div>
+</div>
+
+
+<script>
+
+const socket = io()
+
+let roomCode = null
+let hostId = null
+
+
+function createRoom(){
+
+    let name = document.getElementById("nameInput").value
+
+    socket.emit("createRoom",{name:name})
+
+}
+
+function restartGame(){
+
+    socket.emit("restartGame", roomCode)
+
+}
+
+
+let joined = false
+
+function joinRoom(){
+
+    if(joined) return
+
+    let name = document.getElementById("nameInput").value
+    let code = document.getElementById("roomInput").value.toUpperCase()
+
+    roomCode = code
+
+    socket.emit("joinRoom",{code:code,name:name})
+
+    joined = true
+}
+
+
+function startGame(){
+
+    socket.emit("startGame",roomCode)
+
+}
+
+
+socket.on("roomCreated",(code)=>{
+
+    roomCode = code
+
+    document.getElementById("menu").style.display="none"
+    document.getElementById("lobby").style.display="block"
+
+    document.getElementById("roomCode").innerText = code
+
+})
+
+
+socket.on("playerList",(data)=>{
+    hostId = data.host
+    let list = document.getElementById("playerList")
+    list.innerHTML=""
+
+    data.players.forEach(p=>{
+        let div=document.createElement("div")
+        div.className="player"
+        div.innerText=p.name
+        list.appendChild(div)
+    })
+
+    // Only host sees start button
+    if(socket.id === hostId){
+        document.getElementById("startButton").style.display="block"
+    }else{
+        document.getElementById("startButton").style.display="none"
+    }
+    if(socket.id === hostId){
+    document.getElementById("restartButton").style.display="block"
+    }else{
+        document.getElementById("restartButton").style.display="none"
+    }
+
+})
+
+
+socket.on("role",(data)=>{
+
+    document.getElementById("lobby").style.display="none"
+    document.getElementById("roleScreen").style.display="block"
+
+    if(data.type==="impostor"){
+        roleText.innerText =
+        "Sos el IMPOSTOR\nTu Palabra: " + data.word +
+        "\nCategoria: " + data.category
+        roleText.style.color = "red"
+    }else{
+        roleText.innerText =
+        "Sos ciudadano\nTu Palabra: " + data.word +
+        "\nCategoria: " + data.category
+         roleText.style.color = "#4fc3f7"
+    }
+    
+
+})
+
+socket.on("joinedRoom",(code)=>{
+
+    roomCode = code
+
+    document.getElementById("menu").style.display="none"
+    document.getElementById("lobby").style.display="block"
+
+    document.getElementById("roomCode").innerText = code
+
+})
+socket.on("gameRestarted",()=>{
+
+    document.getElementById("roleScreen").style.display="none"
+    document.getElementById("lobby").style.display="block"
+    
+
+})
+
+</script>
+
+</body>
+</html>
