@@ -63,12 +63,18 @@ io.on("connection", socket => {
         let room = rooms[code]
         
         let pair = words[Math.floor(Math.random()*words.length)]
+        let maxImpostors = room.players.length -2;
+        let impostorCount = Math.floor(Math.random() * maxImpostors) + 1
+        let impostorIndexes = new Set()
 
-        let impostorIndex = Math.floor(Math.random()*room.players.length)
+        while(impostorIndexes.size < impostorCount){
+            let randomIndex = Math.floor(Math.random()*room.players.length)
+            impostorIndexes.add(randomIndex)
+        }
 
         room.players.forEach((p,i)=>{
 
-            if(i===impostorIndex){
+            if(impostorIndexes.has(i)){
                 io.to(p.id).emit("role", {
                     type:"impostor",
                     word:pair.impostorWord,
