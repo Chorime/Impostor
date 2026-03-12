@@ -215,7 +215,7 @@ socket.on("role",(data)=>{
 
     if(data.type==="impostor"){
         roleText.innerText =
-        "Sos el IMPOSTOR\nPista: " + data.word +
+        "Sos el IMPOSTOR" +
         "\nCategoria: " + data.category
         roleText.style.color = "red"
     }else{
@@ -249,4 +249,5 @@ socket.on("gameRestarted",()=>{
 </script>
 
 </body>
+
 </html>
