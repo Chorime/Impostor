@@ -78,7 +78,8 @@ io.on("connection", socket => {
                 io.to(p.id).emit("role", {
                     type:"impostor",
                     word:pair.impostorWord,
-                    category:pair.category
+                    category:pair.category,
+                    impostorNumbers:impostorCount 
                 })
             }else{
                 io.to(p.id).emit("role", {
